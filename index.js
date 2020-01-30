@@ -7,6 +7,5 @@ const merge = (arr1, arr2) => {
 };
 
 const mergeSort = array => {
-  console.log(array)
-  return array.sort();
+  return array.sort((a, b) => a - b);
 }
