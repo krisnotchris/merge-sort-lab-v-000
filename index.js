@@ -1,3 +1,3 @@
 const findMinAndRemoveSorted = array => {
-  return array.sort()[0]
+  return array.sort().shift();
 };
