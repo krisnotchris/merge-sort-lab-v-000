@@ -4,4 +4,8 @@ const findMinAndRemoveSorted = array => {
 
 const merge = (arr1, arr2) => {
   
+};
+
+const mergeSort = array => {
+  
 }
